@@ -1,0 +1,33 @@
+body{
+  background: gold;
+}
+
+.container{
+  box-shadow: 0px 10px 25px rgba(0, 0, 0,0.2);
+  background-color: darkgray;
+  max-width: 900px;
+  margin: auto;
+  padding: 80px;
+  border-radius: 15px;
+
+
+
+img{width: 180px;
+border-radius: 50%;
+border-radius: 15px;
+}
+}
+a{
+color: black
+font-style: italic;
+font-weight: bold;
+text-decoration: none;
+
+}
+a
+  :hover {color: darkred;}
+  .container{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+  }

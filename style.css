@@ -10,7 +10,8 @@ body{
   max-width: 900px;
   margin: auto;
   padding: 30px;
-  border-radius: 12px;
+  border-radius: 4px;
+}
 
 h1{color: orange;
   text-align: center;
@@ -41,4 +42,4 @@ a{color: darkblue;
 a :hover{
   color: green;
 }
-}
+
